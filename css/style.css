@@ -48,7 +48,7 @@ ul li:hover::after {
 li a { 
   text-decoration: none;
   color: white;
-  font-size: 13px;
+  font-size: 16px;
   font-weight: 500;
 }
 
